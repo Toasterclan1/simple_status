@@ -45,6 +45,8 @@ def set(
     if buttons:
         payload["buttons"] = buttons
 
+    print(payload)
+
     _rpc.update(**payload)
 
 def clear():
