@@ -1,5 +1,7 @@
 # simple_status
 
+[![NoSkid Verification](https://noskid.today/badge/470x200/?repo=Toasterclan1/simple_status)](https://noskid.today)
+
 `simple_status` is a lean Python library for setting Discord Rich Presence with minimal boilerplate. It’s ideal for personal tools, games, and development utilities where you want a quick presence update.
 
 ## features
