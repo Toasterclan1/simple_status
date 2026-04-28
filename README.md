@@ -58,7 +58,7 @@ while True:
 
 1. *Why isn't my image working?*:
 To use images make sure you are using your own app id, set with client_id, then make sure the image is uploaded to discord devolper portal
-*Any further questions DM me on discord (Toasterclan1)*
+*Any further questions DM me on discord (Toaster_clan_1)*
 
 ## License
 
